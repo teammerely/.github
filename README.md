@@ -1,13 +1,11 @@
 # .github
 
-
-
 merely
 
 
 ## stack
 - web
-- electron
+- nextron
 - merely-sdk
 - firebase
 
@@ -15,9 +13,8 @@ merely
   - spotify
 
 
-
 ## docs
 
 - [Electron](https://www.electronjs.org/apps)
 - [Spotify developer](https://developer.spotify.com/)
-
+- [Nextron](https://www.npmjs.com/package/nextron)
