@@ -16,3 +16,8 @@ merely
 
 
 
+## docs
+
+- [Electron](https://www.electronjs.org/apps)
+- [Spotify developer](https://developer.spotify.com/)
+
