@@ -18,3 +18,4 @@ merely
 - [Electron](https://www.electronjs.org/apps)
 - [Spotify developer](https://developer.spotify.com/)
 - [Nextron](https://www.npmjs.com/package/nextron)
+- [Nextron2](https://github.com/saltyshiomix/nextron)
